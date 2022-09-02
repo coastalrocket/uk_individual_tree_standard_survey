@@ -1,0 +1,156 @@
+﻿name,label
+abies_grandis,Abies grandis - Giant Fir
+abies_nordmanniana,Abies nordmanniana - Caucasian Fir
+abies_pinsapo,Abies pinsapo - Spanish Fir
+acer_campestre,Acer campestre - Field Maple
+acer_cappadocicum,Acer cappadocicum - Cappadocian Maple
+acer_japonicum,Acer japonicum - Downy Japanese-maple
+acer_negundo,Acer negundo - Ashleaf Maple
+acer_palmatum,Acer palmatum - Smooth Japanese-maple
+acer_platanoides,Acer platanoides - Norway Maple
+acer_pseudoplatanus,Acer pseudoplatanus - Sycamore 
+acer_rubrum,Acer rubrum - Red Maple
+acer_saccharinum,Acer saccharinum - Silver Maple
+aesculus_hippocastanum,Aesculus hippocastanum - Horse-chestnut 
+aesculus_indica,Aesculus indica - Indian Horse-chestnut
+ailanthus_altissima,Ailanthus altissima - Tree-of-heaven 
+alnus_cordata,Alnus cordata - Italian Alder
+alnus_glutinosa,Alnus glutinosa - Alder 
+alnus_incana,Alnus incana - Grey Alder
+alnus_rubra,Alnus rubra - Red Alder
+alnus_viridis,Alnus viridis - Green Alder
+araucaria_araucana,Araucaria araucana - Monkey-puzzle 
+arbutus_unedo,Arbutus unedo - Strawberry-tree 
+betula_papyrifera,Betula papyrifera - Paper Birch
+betula_pendula,Betula pendula - Silver Birch
+betula_pubescens,Betula pubescens - Downy Birch
+buxus_sempervirens,Buxus sempervirens - Box 
+capinus_betulus,Carpinus betulus - Hornbeam 
+carpobrotus_edulis,Carpobrotus edulis - Hottentot-fig 
+castanea_sativa,Castanea sativa - Sweet Chestnut
+catalpa_bignonioides,Catalpa bignonioides - Indian-bean-tree 
+cedrus_deodara,Cedrus deodara - Deodar 
+cedrus_libani,Cedrus libani - Cedar-of-Lebanon 
+cephalotaxus_fortunei,Cephalotaxus fortunei - Chinese Plum-yew
+cercis_siliquastrum,Cercis siliquastrum - Judas-tree 
+chamaecyparis_lawsoniana,Chamaecyparis lawsoniana - Lawson's Cypress
+chamaecyparis_pisifera,Chamaecyparis pisifera - Sawara Cypress
+clerodendrum_trichotomum,Clerodendrum trichotomum - Harlequin Glorybower
+cordyline_australis,Cordyline australis - Cabbage-palm 
+cornus_florida,Cornus florida - Flowering Dogwood
+cornus_sanguinea,Cornus sanguinea - Dogwood 
+corylus_avellana,Corylus avellana - Hazel 
+corylus_colurna,Corylus colurna - Turkish Hazel
+cotinus_coggygria,Cotinus coggygria - Smoke-tree 
+cotoneaster_frigidus,Cotoneaster frigidus - Tree Cotoneaster
+cotoneaster_lucidus,Cotoneaster lucidus - Shiny Cotoneaster
+crataegus_curs-galli,Crataegus crus-galli - Cockspurthorn 
+crataegus_monogyna,Crataegus monogyna - Hawthorn 
+crataegus_x_lavallei,Crataegus x lavallei - Hybrid Cockspurthorn
+cupressus_macrocarpa,Cupressus macrocarpa - Monterey Cypress
+cupressus_sempervirens,Cupressus sempervirens - Italian Cypress
+cydonia_oblonga,Cydonia oblonga - Quince 
+elaeagnus_pungens,Elaeagnus pungens - Spiny Oleaster
+eucalyptus_dalrympleana,Eucalyptus dalrympleana - Broad-leaved Kindlingbark
+eucalyptus_globulus,Eucalyptus globulus - Southern Blue-gum
+eucalyptus_gunnii,Eucalyptus gunnii - Cider Gum
+fagus_sylvatica,Fagus sylvatica - Beech 
+ficus_carica,Ficus carica - Fig 
+fraxinus_americana,Fraxinus americana - White Ash
+fraxinus_excelsior,Fraxinus excelsior - Ash 
+fraxinus_ornus,Fraxinus ornus - Manna Ash
+ginkgo_biloba,Ginkgo biloba - Maidenhair-tree 
+griselinia_littoralis,Griselinia littoralis - New Zealand Broadleaf
+hippophae_rhamnoides,Hippophae rhamnoides - Sea-buckthorn 
+ilex_aquifolium,Ilex aquifolium - Holly 
+juglans_nigra,Juglans nigra - Black Walnut
+juglans_regia,Juglans regia - Walnut 
+juniperus_communis,Juniperus communis - Juniper 
+koelreuteria_paniculata,Koelreuteria paniculata - Pride-of-India 
+laburnum_anagyroides,Laburnum anagyroides - Laburnum 
+larix_decidua,Larix decidua - European Larch
+larix_kaempferi,Larix kaempferi - Japanese Larch
+laurus_nobilis,Laurus nobilis - Bay 
+ligustrum_lucidum,Ligustrum lucidum - Tree Privet
+ligustrum_ovalifolium,Ligustrum ovalifolium - Garden Privet
+ligustrum_vulgare,Ligustrum vulgare - Wild Privet
+liriodendon_tulipifera,Liriodendron tulipifera - Tulip-tree 
+magnolia_acuminata,Magnolia acuminata - Cucumber-tree 
+mahonia_japonica,Mahonia japonica - Japanese Mahonia
+malus_baccata,Malus baccata - Siberian Crab
+malus_floribunda,Malus floribunda - Japanese Crab
+malus_sylvestris,Malus sylvestris - Crab Apple
+mespilus_germanica,Mespilus germanica - Medlar 
+metasequoia_glyptostroboides,Metasequoia glyptostroboides - Dawn Redwood
+morus_alba,Morus alba - White Mulberry
+morus_nigra,Morus nigra - Black Mulberry
+nothofagus_dombeyi,Nothofagus dombeyi - Dombey's Beech
+nothofagus_obliqua,Nothofagus obliqua - Roble 
+paulownia_tomentosa,Paulownia tomentosa - Foxglove-tree 
+phoenix_dactylifera,Phoenix dactylifera - Date 
+picea_abies,Picea abies - Norway Spruce
+picea_engelmannii,Picea engelmannii - Engelmann Spruce
+picea_omorika,Picea omorika - Serbian Spruce
+picea_pungens,Picea pungens - Colorado Spruce
+picea_sitchensis,Picea sitchensis - Sitka Spruce
+pinus_contorta,Pinus contorta - Lodgepole Pine
+pinus_mugo,Pinus mugo - Dwarf Mountain-pine
+pinus_muricata,Pinus muricata - Bishop Pine
+pinus_nigra,Pinus nigra - Black Pine
+pinus_radiata,Pinus radiata - Monterey Pine
+pinus_strobus,Pinus strobus - Weymouth Pine
+pinus_sylvestris,Pinus sylvestris - Scots Pine
+pittosporum_tenuifolium,Pittosporum tenuifolium - Kohuhu 
+platanus_occidentalis,Platanus occidentalis - American Plane
+platanus_orientalis,Platanus orientalis - Oriental Plane
+populus_alba,Populus alba - White Poplar
+populus_balsamifera,Populus balsamifera - Eastern Balsam-poplar
+populus_nigra,Populus nigra - Black-poplar 
+populus_tremula,Populus tremula - Aspen 
+prunus_avium,Prunus avium - Wild Cherry
+prunus_cerasifera,Prunus cerasifera - Cherry Plum
+prunus_domnestica,Prunus domestica - Wild Plum
+prunus_dulcis,Prunus dulcis - Almond 
+prunus_laurocerasus,Prunus laurocerasus - Cherry Laurel
+prunus_lusitanica,Prunus lusitanica - Portugal Laurel
+prunus_padus,Prunus padus - Bird Cherry
+prunus_serotina,Prunus serotina - Rum Cherry
+prunus_serrulate,Prunus serrulata - Japanese Cherry
+prunus_spinosa,Prunus spinosa - Blackthorn 
+pyrus_communis,Pyrus communis - Pear 
+quercus_cerris,Quercus cerris - Turkey Oak
+quercus_coccinea,Quercus coccinea - Scarlet Oak
+quercus_palustris,Quercus palustris - Pin Oak
+quercus_petraea,Quercus petraea - Sessile Oak
+quercus_robur,Quercus robur - Pedunculate Oak
+quercus_rubra,Quercus rubra - Red Oak
+robinia_pseudoacacia,Robinia pseudoacacia - False-acacia 
+salix_alba,Salix alba - White Willow
+salix_caprea,Salix caprea - Goat Willow
+salix_cinerea,Salix cinerea - Grey Willow
+salix_fragilis,Salix fragilis - Crack-willow 
+salix_viminalis,Salix viminalis - Osier 
+sambucus_nigra,Sambucus nigra - Elder 
+sambucus_racemosa,Sambucus racemosa - Red-berried Elder
+sorbus_aria,Sorbus aria - Common Whitebeam
+sorbus_aucuparia,Sorbus aucuparia - Rowan 
+sorbus_intermedia,Sorbus intermedia - Swedish Whitebeam
+sorbus_sargentiana,Sorbus sargentiana - Sargent's Rowan
+sorbus_torminalis,Sorbus torminalis - Wild Service-tree
+syringa_vulgaris,Syringa vulgaris - Lilac 
+taxodium_distichum,Taxodium distichum - Swamp Cypress
+taxus_baccata,Taxus baccata - Yew 
+thuja_plicata,Thuja plicata - Western Red-cedar
+tilia_cordata,Tilia cordata - Small-leaved Lime
+tilia_platyphyllos,Tilia platyphyllos - Large-leaved Lime
+trachycarpus_fortunei,Trachycarpus fortunei - Chusan Palm
+tsuga_heterophylla,Tsuga heterophylla - Western Hemlock-spruce
+ulex_europaeus,Ulex europaeus - Gorse 
+ulmus_glabra,Ulmus glabra - Wych Elm
+ulmus_minor,Ulmus minor - Field Elm
+ulmus_procera,Ulmus procera - English Elm
+umbellularia_californica,Umbellularia californica - Californian Bay
+viburnum_rhytidophyllum,Viburnum rhytidophyllum - Wrinkled Viburnum
+viburnum_tinus,Viburnum tinus - Laurustinus 
+zelkova_serrata,Zelkova serrata - Japanese Elm
+other,Other
